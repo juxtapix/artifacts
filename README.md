@@ -9,7 +9,9 @@ NYU ITP, Fall 2022
 
 ## Overview
 
-In this precarious and critical time, it is important to expand and evolve our ecosystem of thought away from the current hierarchies that prioritize the established frameworks of the Anthropocene. There is vast potential in combining emerging technologies and artistic expression to re-envision possible futures and ways of knowing/learning. This 1 point class will introduce concepts of speculative design, design fiction, tactical media, and adversarial design through a post-dualistic non-eurocentric approach to designing futures.
+In this precarious and critical time, it is important to expand and evolve our ecosystem of thought away from the current hierarchies that prioritize the established frameworks of the Anthropocene. There is vast potential in combining emerging technologies and artistic expression to re-envision possible futures and ways of knowing/learning.   
+   
+This 1 point class will introduce concepts of speculative design, design fiction, tactical media, and adversarial design through a post-dualistic non-eurocentric approach to designing futures.
 
 
 
