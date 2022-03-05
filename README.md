@@ -49,7 +49,7 @@ Please be punctual and respectful. Laptops must be closed while fellow classmate
 This class will be highly participatory. You are expected to contribute to discussions, follow the Labs, build the circuits, and otherwise fully participate in class.
 
 ## Terminology   
-The field of Electronics, Electrical Engineering, and Technology in general, has traditionally presented outdated, archaic, problematic, ableist, and racist language. This class will make use of inclusive and gender-neutral terminology. [Suggestions/Alternatives](Terminology) 
+The field of Electronics, Electrical Engineering, and Technology in general, has traditionally presented outdated, archaic, problematic, ableist, and racist language. This class will make use of inclusive and gender-neutral terminology. [Suggestions/Alternatives](https://github.com/juxtapix/artifacts/wiki/Terminology) 
 
 ## Inclusivity  
 This class is a harassment-free, and inclusive space for everyone, regardless of gender, sexual orientation, gender identity or expression, disability, physical appearance, age, race, ethnicity, political affiliation, national origin, or religion — and not limited to these aspects. [ITP/IMA - Code of Conduct](https://github.com/ITPNYU/ITP-IMA-Code-of-Conduct)
